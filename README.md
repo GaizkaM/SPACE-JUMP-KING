@@ -1,6 +1,6 @@
 # Space-Jump King
 
-Welcome to **Space-Jump King**, an exciting video game developed in assembly language for the Motorola 68000 microprocessor using the EASy68k environment! This project was created as the final assignment for the **Computer Architecture II** course and combines peripheral management, graphics, and sounds to deliver a unique retro experience.
+Welcome to **Space-Jump King**, an exciting video game developed in assembly language for the Motorola 68000 microprocessor using the EASy68k environment! This project was created as the final assignment for the **Computer Structure II** course and combines peripheral management, graphics, and sounds to deliver a unique retro experience.
 
 ## 📖 Description
 
